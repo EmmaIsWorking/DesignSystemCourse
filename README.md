@@ -73,6 +73,7 @@ SMACSS se trata de una manera de construcción para los estilos de tu sistema. E
 - Theme
 
 ## Preview
+![Preview](preview.png)
 
 [Preview en Heroku](https://test-curso-platzi-sd.herokuapp.com/)
 ## Conceptos
